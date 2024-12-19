@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "uDrop": {
+      "commandName": "Project",
+      "hotReloadEnabled": false
+    }
+  }
+}
